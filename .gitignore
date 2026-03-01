@@ -1,0 +1,8 @@
+node_modules/
+/dist/
+.DS_Store
+*.log
+
+# Generated atlas (rebuild with: npx tsx ads/worm-hunt/generate-atlas.ts)
+ads/worm-hunt/assets/atlas.png
+ads/worm-hunt/assets/atlas.json
